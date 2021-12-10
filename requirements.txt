@@ -1,8 +1,0 @@
-cyhunspell==2.0.2
-Flask==2.0.2
-hunspell==0.5.5
-keras==2.7.0
-numpy==1.18.4
-opencv_python==4.2.0.34
-Pillow==8.4.0
-pyenchant==3.2.2
